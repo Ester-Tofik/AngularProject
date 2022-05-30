@@ -1,0 +1,201 @@
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.json
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.exe
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.deps.json
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.json
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.dev.json
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.dll
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.pdb
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.AssemblyReference.cache
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfoInputs.cache
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfo.cs
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.CoreCompileInputs.cache
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.MvcApplicationPartsAssemblyInfo.cache
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.Manifest.cache
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.xml
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\ServerForEndProject.styles.css
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.RazorTargetAssemblyInfo.cache
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.dll
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.pdb
+M:\angular\EndProject\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.genruntimeconfig.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.exe
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.deps.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.dev.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.dll
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.pdb
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csprojAssemblyReference.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfoInputs.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfo.cs
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.CoreCompileInputs.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.RazorTargetAssemblyInfo.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.Manifest.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.xml
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.dll
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.pdb
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב'\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.genruntimeconfig.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.exe
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.deps.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.dev.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.dll
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.pdb
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csprojAssemblyReference.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfoInputs.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfo.cs
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.CoreCompileInputs.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.RazorTargetAssemblyInfo.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.Manifest.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.xml
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.dll
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.pdb
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.genruntimeconfig.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.exe
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.deps.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.dev.json
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.dll
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.pdb
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csprojAssemblyReference.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfoInputs.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfo.cs
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.CoreCompileInputs.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.RazorTargetAssemblyInfo.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.Manifest.cache
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.xml
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.dll
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.pdb
+C:\Users\נעמה פרידמן\Desktop\תכנות אילה\שנה ב\Angular\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.genruntimeconfig.cache
+F:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.json
+F:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.exe
+F:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.deps.json
+F:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.json
+F:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.dev.json
+F:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.dll
+F:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.pdb
+F:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.AssemblyReference.cache
+F:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfoInputs.cache
+F:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfo.cs
+F:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.CoreCompileInputs.cache
+F:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.MvcApplicationPartsAssemblyInfo.cache
+F:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.Manifest.cache
+F:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.xml
+F:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\ServerForEndProject.styles.css
+F:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.RazorTargetAssemblyInfo.cache
+F:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.dll
+F:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.pdb
+F:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.genruntimeconfig.cache
+E:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.json
+E:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.exe
+E:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.deps.json
+E:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.json
+E:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.dev.json
+E:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.dll
+E:\אילה\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.pdb
+E:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csprojAssemblyReference.cache
+E:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfoInputs.cache
+E:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfo.cs
+E:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.CoreCompileInputs.cache
+E:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.MvcApplicationPartsAssemblyInfo.cache
+E:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.RazorTargetAssemblyInfo.cache
+E:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.Manifest.cache
+E:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.xml
+E:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.dll
+E:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.pdb
+E:\אילה\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.genruntimeconfig.cache
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.exe
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.deps.json
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.json
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.dev.json
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.dll
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.pdb
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.AssemblyReference.cache
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfoInputs.cache
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfo.cs
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.CoreCompileInputs.cache
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.Manifest.cache
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.xml
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\ServerForEndProject.styles.css
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.RazorTargetAssemblyInfo.cache
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.dll
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.pdb
+C:\Users\325191575\Desktop\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.genruntimeconfig.cache
+M:\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.json
+M:\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.exe
+M:\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.deps.json
+M:\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.json
+M:\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.dev.json
+M:\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.dll
+M:\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.pdb
+M:\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.AssemblyReference.cache
+M:\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfoInputs.cache
+M:\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfo.cs
+M:\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.CoreCompileInputs.cache
+M:\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.MvcApplicationPartsAssemblyInfo.cache
+M:\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.Manifest.cache
+M:\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.xml
+M:\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\ServerForEndProject.styles.css
+M:\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.RazorTargetAssemblyInfo.cache
+M:\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.dll
+M:\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.pdb
+M:\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.genruntimeconfig.cache
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.json
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.exe
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.deps.json
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.json
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.dev.json
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.dll
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.pdb
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.AssemblyReference.cache
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.GeneratedMSBuildEditorConfig.editorconfig
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfoInputs.cache
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfo.cs
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.CoreCompileInputs.cache
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.MvcApplicationPartsAssemblyInfo.cache
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.Manifest.cache
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.xml
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\ServerForEndProject.styles.css
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.RazorTargetAssemblyInfo.cache
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.dll
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.pdb
+M:\angular\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.genruntimeconfig.cache
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.exe
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.deps.json
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.json
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.runtimeconfig.dev.json
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.dll
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\bin\Debug\netcoreapp3.1\ServerForEndProject.pdb
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csprojAssemblyReference.cache
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfoInputs.cache
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.AssemblyInfo.cs
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.csproj.CoreCompileInputs.cache
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.RazorTargetAssemblyInfo.cache
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.Manifest.cache
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\staticwebassets\ServerForEndProject.StaticWebAssets.xml
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.dll
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.pdb
+D:\פרויקט סופי\ServerForEndProject\ServerForEndProject\obj\Debug\netcoreapp3.1\ServerForEndProject.genruntimeconfig.cache

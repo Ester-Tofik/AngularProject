@@ -1,0 +1,66 @@
+<p>scheduling-component works!</p>
+<html style="background-color: rgba(255, 245, 245, 100)">
+<br><br>
+<div style="background-color: rgb(255, 0, 106); height: 85px;text-align:center;font-size: medium;">
+    <br>
+    <h1 style="font-size: 30px; text-align: center; text-align-last: center; color: rgba(255, 245, 245, 100);">מערכת
+        שיבוץ מתנדבים</h1>
+</div>
+<br>
+<!-- *ngIf="allOnLoud" -->
+<form [formGroup]="scheduleForm">
+    <div class="container">
+        <!-- [class.list-group-item-success]="scheduleForm.controls.Tuesday.value" -->
+        <label [ngStyle]="{'background-color': view[0] ? 'green' : 'red'}">sunday</label>
+        <select formControlName="sunday" class="list-group-item">
+            <option>Choose a volunteer</option>
+            <!-- selected="sun.id == selected[0].id" -->
+            <option *ngFor="let sun of schedulingList[0]">
+                <p>{{sun.name}}</p>
+            </option>
+        </select>
+        <label [class.list-group-item-success]="view[1]">monday</label>
+        <select formControlName="monday" class="list-group-item">
+            <option>Choose a volunteer</option>
+            <option *ngFor="let mon of schedulingList[1]">
+                <p>{{mon.name}}</p>
+            </option>
+        </select>
+        <label [class.list-group-item-success]="view[2]">Tuesday</label>
+        <select formControlName="Tuesday" class="list-group-item">
+            <option>Choose a volunteer</option>
+            <option *ngFor="let tue of schedulingList[2]">
+                <p>{{tue.name}}</p>
+            </option>
+        </select>
+        <label [class.list-group-item-success]="view[3]">Wednesday</label>
+        <select formControlName="Wednesday" class="list-group-item">
+            <option>Choose a volunteer</option>
+            <option *ngFor="let Wed of schedulingList[3]">
+                <p>{{Wed.name}}</p>
+            </option>
+        </select>
+        <label [class.list-group-item-success]="view[4]">Thursday</label>
+        <select formControlName="Thursday" class="list-group-item">
+            <option>Choose a volunteer</option>
+            <option *ngFor="let Thursday of schedulingList[4]">
+                <p>{{Thursday.name}}</p>
+            </option>
+        </select>
+        <label [class.list-group-item-success]="view[5]">Friday</label>
+        <select formControlName="Friday" class="list-group-item">
+            <option>Choose a volunteer</option>
+            <option *ngFor="let Friday of schedulingList[5]">
+                <p>{{Friday.name}}</p>
+            </option>
+        </select>
+    </div>
+    <br /><br />
+    <br />
+    <br />
+</form>
+<button
+    style="margin-left: 500px; color: rgb(175, 8, 8); size: 100px; font-size: 35px; padding: 20px; margin-bottom: 5px;"
+    (click)="saveSch()">saveSchedule</button>
+    <button (click)="sch()" style="padding: 5px;">לשיבוץ הנוכחי</button>
+</html>
